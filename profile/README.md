@@ -8,7 +8,7 @@
     
 \
 \
-<strong><a href="https://momentum-fw.dev">https://momentum-fw.dev</a></strong>&nbsp; · &nbsp;[Install](https://github.com/Next-Flip/Momentum-Firmware?tab=readme-ov-file#Install)&nbsp; · &nbsp;[Features](https://github.com/Next-Flip/Momentum-Firmware#list-of-changes)&nbsp; · &nbsp;[Discord](https://discord.gg/momentum)
+<strong><a href="https://momentum-fw.dev" target="_blank" >https://momentum-fw.dev</a></strong>&nbsp; · &nbsp;[Install](https://github.com/Next-Flip/Momentum-Firmware?tab=readme-ov-file#Install)&nbsp; · &nbsp;[Features](https://github.com/Next-Flip/Momentum-Firmware#list-of-changes)&nbsp; · &nbsp;<a href="https://discord.gg/momentum" target="_blank" >Discord</a>
 
 The goal of this firmware is to constantly push the bounds of what is possible with Flipper Zero, driving the innovation of many new groundbreaking features, while maintaining the easiest and most customizable user experience of any firmware. Fixing bugs promptly and ensuring a stable and compatible system is also of our utmost importance.
 
