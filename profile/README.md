@@ -15,8 +15,8 @@ The goal of this firmware is to constantly push the bounds of what is possible w
 ### Firmware & Apps
 - [Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - Feature-rich, stable and customizable Flipper Firmware
 - [Momentum-Apps](https://github.com/Next-Flip/Momentum-Apps) - Bundle of external apps tweaked for Momentum Firmware
-- [qFlipper](https://github.com/Next-Flip/qFlipper) - Desktop qFlipper app configured with Momentum Firmware update server
 - [video-game-module](https://github.com/Next-Flip/video-game-module) - Video Game Module firmware with screen color customization
+- [flipperzero-protobuf](https://github.com/Next-Flip/flipperzero-protobuf) - RPC specification with screen color parameters and keyboard input request
 
 ### Tools & Resources
 - [Asset-Packs](https://github.com/Next-Flip/Asset-Packs) - Bundle of asset packs for Momentum Firmware
