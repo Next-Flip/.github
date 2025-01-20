@@ -21,7 +21,7 @@ The goal of this firmware is to constantly push the bounds of what is possible w
 ### Tools & Resources
 - [Asset-Packs](https://github.com/Next-Flip/Asset-Packs) - Bundle of asset packs for Momentum Firmware
 - [Momentum-Website](https://github.com/Next-Flip/Momentum-Website) - Main website source code
-- [flipper-update-indexer](https://github.com/Next-Flip/flipper-update-indexer) - Backend indexer for update serve
+- [flipper-update-indexer](https://github.com/Next-Flip/flipper-update-indexer) - Backend indexer for update server
 
 If you enjoy our work, consider supporting us:
 - [Ko-fi](https://ko-fi.com/willyjl) (One-off or Recurring)
